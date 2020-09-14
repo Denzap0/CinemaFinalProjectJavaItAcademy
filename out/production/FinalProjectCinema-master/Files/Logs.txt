@@ -1,0 +1,5 @@
+Admin 1 logged in (2020-09-14T23:54:48.299)
+Admin 1 added film denzap (2020-09-14T23:54:59.571)
+Admin 1 edited password of user 1 to 1 (2020-09-14T23:56:08.279)
+Admin 1 added user 3 (2020-09-14T23:56:16.450)
+Admin 1 logged out  (2020-09-14T23:56:26.428)
